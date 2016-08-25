@@ -14,7 +14,7 @@ import java.util.Locale;
  *
  * Created by dong on 2016/8/25.
  */
-public class Pinyin4jUtils {
+public class PinyinUtils {
 
 
     /**
