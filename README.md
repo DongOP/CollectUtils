@@ -9,3 +9,5 @@
 PinyinUtils| pinyin4j-2.5.0
 
 ### 相关网址
+
+* [Android常用的工具类](http://www.jianshu.com/p/72494773aace)
