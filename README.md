@@ -12,3 +12,4 @@
 项目名称 | 依赖Jar包
 ------- | -------
 PinyinUtils| pinyin4j-2.5.0
+MacUtils| 无
