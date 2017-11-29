@@ -13,3 +13,4 @@
 ------- | -------
 PinyinUtils| pinyin4j-2.5.0
 MacUtils| 无
+MacUtils| zxing
